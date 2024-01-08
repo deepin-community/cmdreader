@@ -4,7 +4,7 @@ include /usr/share/dpkg/default.mk
 
 
 %:
-	dh $@
+	dh $@ --with maven-repo-helper
 
 override_dh_auto_clean:
 	dh_auto_clean
