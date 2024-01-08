@@ -1,3 +1,13 @@
+cmdreader (1.5-3) unstable; urgency=medium
+
+  * Team upload.
+  * Install the Maven artifacts
+  * Use salsa.debian.org Vcs-* URLs
+  * Standards-Version updated to 4.6.0.1
+  * Switch to debhelper level 13
+
+ -- Emmanuel Bourg <ebourg@apache.org>  Wed, 16 Feb 2022 17:49:33 +0100
+
 cmdreader (1.5-2) unstable; urgency=medium
 
   * Team upload.
